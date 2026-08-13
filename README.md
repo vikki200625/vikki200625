@@ -13,6 +13,7 @@ I design and build autonomous agent systems — orchestrating multiple collabora
 `TypeScript` · `Next.js` · `React` · `Node.js` · `Tailwind CSS` · `Python` · `Java`
 
 ## Featured projects
+- **[multi-agent-coordination](https://github.com/vikki200625/multi-agent-coordination)** — real multi-agent setup: Hermes, OpenClaude & OpenCode coordinating through one shared memory store
 - **[syncup](https://github.com/vikki200625/syncup)** — real-time sync app built with Next.js + React + TypeScript
 - **[twin-booth](https://github.com/vikki200625/twin-booth)** — Next.js photo-booth app for long-distance friends and couples
 - **[shelftalk](https://github.com/vikki200625/shelftalk-v2)** — full-stack social / book-discovery app (React + Vite)
