@@ -6,11 +6,11 @@
 
 **Software Engineer · Agentic AI & Multi-Agent Systems**
 
-<img src="https://komarev.com/ghbp/?username=vikki200625&color=1e4d3b&style=flat&label=Profile+views" alt="Profile views" />
-&nbsp;
 <a href="https://github.com/vikki200625?tab=followers"><img src="https://img.shields.io/github/followers/vikki200625?label=Followers&style=flat&color=1e4d3b" alt="Followers" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-opportunities-c9a227?style=flat" alt="Open to opportunities" />
+&nbsp;
+<a href="https://shelftalk.vikki200625.workers.dev"><img src="https://img.shields.io/badge/Live%20product-ShelfTalk-1e4d3b?style=flat" alt="ShelfTalk live" /></a>
 
 </div>
 
@@ -32,11 +32,11 @@ I design and build autonomous agent systems — orchestrating multiple collabora
 
 <div align="center">
 <a href="https://shelftalk.vikki200625.workers.dev">
-  <img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEMO-1e4d3b?style=for-the-badge" alt="Live demo" />
+  <img src="https://img.shields.io/badge/%E2%96%B6%20OPEN%20LIVE%20DEMO-1e4d3b?style=for-the-badge" alt="Live demo" />
 </a>
 </div>
 
-**[ShelfTalk](https://shelftalk.vikki200625.workers.dev)** — a book community for readers: discover books, track reading, set goals, join book clubs, and talk about books. React + Vite on a Cloudflare Worker (better-auth · D1 · Durable Objects · Hono). Kept local as a showcase build.
+**[ShelfTalk](https://shelftalk.vikki200625.workers.dev)** — a book community for readers: discover books, track reading, set goals, join book clubs, and talk about books. React + Vite on a Cloudflare Worker (better-auth · D1 · Durable Objects · Hono). Kept local as a showcase build; the deployed version above is live.
 
 ## Featured projects
 
@@ -52,14 +52,6 @@ I design and build autonomous agent systems — orchestrating multiple collabora
 <img src="https://github-readme-stats.vercel.app/api?username=vikki200625&show_icons=true&theme=default&title_color=1e4d3b&icon_color=c9a227&text_color=1c1917&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikki200625&layout=compact&theme=default&title_color=1e4d3b&text_color=1c1917&hide_border=true&count_private=true" height="165" alt="Top languages" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=vikki200625&theme=default&hide_border=true&ring=1e4d3b&fire=c9a227&currStreakLabel=1e4d3b" alt="Contribution streak" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikki200625&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Trophies" />
 </div>
 
 ---
